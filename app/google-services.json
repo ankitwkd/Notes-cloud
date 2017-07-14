@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1050894440900",
+    "firebase_url": "https://notes-cloud.firebaseio.com",
+    "project_id": "notes-cloud",
+    "storage_bucket": "notes-cloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050894440900:android:73be8431006cdb82",
+        "android_client_info": {
+          "package_name": "com.wkdnotes.root.notes_cloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050894440900-ggi8rn28ibt682t6jjesnjgdid7n6572.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhiLHc7uhdm0nfzV87CinvYo0m6xsYwu8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
